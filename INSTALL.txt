@@ -1,0 +1,9 @@
+Building Babylonian 
+
+See doc/readme-qt.rst for instructions on building Babylonian-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Babylonian.
+
+See doc/build-*.txt for instructions on building Babyloniand,
+the intended-for-services, no-graphical-interface, reference
+implementation of Babylonian.
